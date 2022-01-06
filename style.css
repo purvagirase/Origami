@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+#start{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#intro{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#tulip{
+    font-size: 25px;
+}
+#crane{
+    font-size: 25px;
+}
+#box{
+    font-size: 25px;
+}
+#tulipm{
+    height: 300px;
+    width: 300px;
+    border-width: 4px;
+    border-color: black;
+}
+#cranem{
+    height: 300px;
+    width: 300px;
+    border-width: 4px;
+    border-color: black;
+}
+#boxm{
+    height: 300px;
+    width: 300px;
+    border-width: 4px;
+    border-color: black;
+}
+img:hover{
+    transform: scale(0.9);
+}
